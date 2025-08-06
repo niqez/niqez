@@ -1,3 +1,6 @@
+![American_Beaver](https://github.com/user-attachments/assets/f1447657-15d5-4374-82b7-547bca2dee48)
+
+
 # Project Title
 
 One Paragraph of project description goes here
